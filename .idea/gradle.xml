@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/FAAS/build/flower-faas" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/FAAS/build/flower-faas" />
+            <option value="$PROJECT_DIR$/FAAS/build/flower-faas/entrypoint" />
+            <option value="$PROJECT_DIR$/FAAS/build/flower-faas/function" />
+            <option value="$PROJECT_DIR$/FAAS/build/flower-faas/model" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/FAAS/flower-faas" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/FAAS/flower-faas" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/FAAS/template/java11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/FAAS/template/java11" />
+            <option value="$PROJECT_DIR$/FAAS/template/java11/entrypoint" />
+            <option value="$PROJECT_DIR$/FAAS/template/java11/function" />
+            <option value="$PROJECT_DIR$/FAAS/template/java11/model" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/FAAS/template/java11-vert-x" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/FAAS/template/java11-vert-x" />
+            <option value="$PROJECT_DIR$/FAAS/template/java11-vert-x/entrypoint" />
+            <option value="$PROJECT_DIR$/FAAS/template/java11-vert-x/function" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

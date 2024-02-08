@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOA.iml" filepath="$PROJECT_DIR$/.idea/SOA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flower-customer/flower-customer.iml" filepath="$PROJECT_DIR$/flower-customer/flower-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flower-details/flower-details.iml" filepath="$PROJECT_DIR$/flower-details/flower-details.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flower-shop/flower-shop.iml" filepath="$PROJECT_DIR$/flower-shop/flower-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/function.iml" filepath="$PROJECT_DIR$/.idea/modules/function.iml" />
+    </modules>
+  </component>
+</project>

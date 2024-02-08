@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FAAS/faas-netes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flower-customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flower-details" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flower-shop" vcs="Git" />
+  </component>
+</project>
